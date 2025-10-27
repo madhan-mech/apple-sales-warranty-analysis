@@ -15,7 +15,7 @@ The final Tableau dashboards provide insights into overall sales performance, to
 - **Tableau Desktop** – Dashboard creation & insights
 
 ## 📁 Project Structure
-- `Apple_cleaned.tflx`: Data cleaning workflow
+- `https://github.com/madhan-mech/apple-sales-warranty-analysis/blob/main/Apple%20sales%20data%20%20cleaning%20tableau.tfl`: Data cleaning workflow
 - `Dashboard_Sales.twbx`: Sales dashboard
 - `Dashboard_Warranty.twbx`: Warranty analysis dashboard
 - `screenshots/`: Preview of dashboards
