@@ -5,9 +5,12 @@
 Designed and built an end-to-end data analysis project using Tableau Prep and Tableau Desktop. Integrated five datasets — Products, Categories, Stores, Sales, and Warranty Claims — to create a unified data model.
 The final Tableau dashboards provide insights into overall sales performance, top-selling categories, regional trends, and product reliability through warranty claim analysis.
 
+---
+
 ## Dataset Source
 - kaggle.com
-- 
+- NOTE : This Data  is a synthetic.
+--- 
 ## Key Highlights:
 - Used Tableau Prep for data cleaning, joining, and transformation.
 - Applied Left and Inner Joins strategically to handle missing warranty data.
